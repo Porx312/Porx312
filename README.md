@@ -59,6 +59,6 @@ im currenly learning
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/Porx312/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Porx312/Porx312/output/snake.svg" alt="Snake animation" />
 
 ###
