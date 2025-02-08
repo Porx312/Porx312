@@ -1,5 +1,3 @@
-# 💫 About Me:
-im currenly learning
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Porx312/Porx312/output/github-snake-dark.svg" />
