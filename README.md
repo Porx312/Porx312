@@ -1,4 +1,4 @@
-
+8
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Porx312/Porx312/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Porx312/Porx312/output/github-snake.svg" />
@@ -36,46 +36,8 @@
 
 ## 🌐 Reach Me
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:codeporx312@gmail.com)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joseblancodev@gmail.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/porx312)
 
 ---
 
-## 🧰 Tech Stack
-
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Stripe-008CDD?logo=stripe&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LemonSqueezy-5D5FEF?logo=lemonsqueezy&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Clerk-3E2EFF?logo=clerk&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Zustand-000000?logo=zustand&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Axios-5A29E4?logo=axios&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Photopea-18A303?style=for-the-badge&logo=photopea&logoColor=white" />
-  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?logo=arch-linux&logoColor=white&style=for-the-badge" />
-</p>
-
----
-
-## ☕ Support My Work
-
-<a href="https://www.buymeacoffee.com/codeporx312" target="_blank">
-  <img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-yellow?logo=buymeacoffee&logoColor=black&style=for-the-badge" />
-</a>
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="divider" width="100%" />
-  <img src="https://raw.githubusercontent.com/JoshuaThadi/JoshuaThadi/main/assets/pixel-temple.png" alt="pixel temple" />
-</p>
